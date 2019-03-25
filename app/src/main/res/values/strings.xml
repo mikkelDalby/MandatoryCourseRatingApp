@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MandatoryCourseRatingApp</string>
+    <string name="title_login_to_rate">Login to rate</string>
+    <string name="button_login">Login</string>
+    <string name="button_signup">Sign up</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="loading">Loading</string>
+    <string name="title_signup">Signup</string>
+    <string name="hint_password_again">Password again</string>
+    <string name="alert_user_created">User created. Please login</string>
+    <string name="alert_auth_failed">Authentication failed.</string>
+    <string name="field_required">Required.</string>
+    <string name="field_not_matching">Needs to match the above field</string>
+    <string name="alert_something_went_wrong">Something went wrong.</string>
+    <string name="alert_wrong_credentials">Wrong username or password.</string>
+    <string name="alert_logged_in_as">Logged in as</string>
+    <string name="q1">Subject relavans</string>
+    <string name="q2">Teacher overall performance</string>
+    <string name="q3">Teacher preparation</string>
+    <string name="q4">Amount of feedback</string>
+    <string name="q5">How good their examples are</string>
+    <string name="q6">Job opportunities</string>
+    <string name="button_submit">Submit</string>
+    <string name="alert_submitted">Your rating is submitted.</string>
+    <string name="button_signout">Sign out</string>
+    <string name="alert_signed_out">Your are signed out</string>
+    <string name="button_email">Submit and send email</string>
+</resources>

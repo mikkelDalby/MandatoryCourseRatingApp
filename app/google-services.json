@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "900603305661",
+    "firebase_url": "https://courseratingapp.firebaseio.com",
+    "project_id": "courseratingapp",
+    "storage_bucket": "courseratingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900603305661:android:0c8d878d8f0e84ae",
+        "android_client_info": {
+          "package_name": "com.mikkeldalby.mandatorycourseratingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900603305661-vevrs009l7h2hgcmu21575aif10ogkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4_ypUT0EUqfWasGazCxLCT8LCoRQV8Gk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
